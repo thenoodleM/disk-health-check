@@ -1,6 +1,5 @@
 # Disk & Server Health Check
 
-A pre-purchase health check for used hard disks in Dell PowerEdge servers (R730 with PERC H330/H730/H730P) running Ubuntu.
 
 It grades every spinning disk behind the RAID controller as HEALTHY, WATCH, WARNING, FAILING, DEAD or TAMPERED, and writes a text and HTML report.
 
