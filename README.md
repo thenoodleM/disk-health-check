@@ -1,6 +1,6 @@
 # Disk & Server Health Checker v2.0
 
-Checks the hard disks and the server around them (Dell PowerEdge R730 / PERC RAID / SAS on Ubuntu,
+Checks the hard disks and the server around them ( PERC RAID / SAS on Ubuntu,
 and plain SATA/SAS disks on any Linux box). It tests every disk and array at the same time, shows a
 live web dashboard, and can post a tamper-evident record of every step to Discord.
 
